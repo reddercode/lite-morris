@@ -8,6 +8,9 @@ To have a look of the working library just open the `morris.html`.
 
 Build a javascript file that overwrites the `morris.js` and `morris.min.js` in the repo's root folder and open litemorris.html to see the result.
 
+[MORRIS TESTBED](https://reddercode.github.io/lite-morris/morris.html)
+
+[LITEMORRIS TESTBED](https://reddercode.github.io/lite-morris/litemorris.html)
 
 # Morris.js - pretty time-series line graphs
 
