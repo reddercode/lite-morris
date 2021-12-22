@@ -1,3 +1,14 @@
+# LiteMorris
+
+In `testbed` folder there are two files, `morris.html` and `litemorris.html`, the former is using the original _Morris.js_ library with _jQuery_ and _Raphael_, the latter is only referencing the morris.min.js in the repo's root folder.
+
+To have a look of the working library just open the `morris.html`.
+
+### TEST
+
+Build a javascript file that overwrites the `morris.js` and `morris.min.js` in the repo's root folder and open litemorris.html to see the result.
+
+
 # Morris.js - pretty time-series line graphs
 
 [![Build Status](https://secure.travis-ci.org/morrisjs/morris.js.png?branch=master)](http://travis-ci.org/morrisjs/morris.js)
