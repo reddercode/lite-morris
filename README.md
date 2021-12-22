@@ -1,6 +1,6 @@
 # LiteMorris
 
-In `testbed` folder there are two files, `morris.html` and `litemorris.html`, the former is using the original _Morris.js_ library with _jQuery_ and _Raphael_, the latter is only referencing the morris.min.js in the repo's root folder.
+In `docs` folder there are two files, `morris.html` and `litemorris.html`, the former is using the original _Morris.js_ library with _jQuery_ and _Raphael_, the latter is only referencing the morris.min.js in the repo's root folder.
 
 To have a look of the working library just open the `morris.html`.
 
